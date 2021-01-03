@@ -4,7 +4,7 @@ The homework will primaraly be assigned google codelabs. Create a folder for eac
 
 Codelab 1.2 is the first codelab with questions, copy and paste the quesions to the bottom of this file, use markdown to create a Heading 1 (#) for the codelab name and heading 2 (##) for each question. For short answer questions add your answer for multiple choice or multiple selection.   
 Markdown: 
-* list items start with `*`  
+* list items start with `*`, `1` for numberated list items    
 * start a new line with two spaces at the end of the previous line  
 * one `#` for Heading 1, 2 `#` for heading 2, 3 `#` for heading 3  
 * for **bold** suround word with 2 `*` before and after  
