@@ -1,4 +1,4 @@
-#HOMEWORK REPOSITORY
+# HOMEWORK REPOSITORY
 
 The homework will primaraly be assigned google codelabs. Create a sub folder inside this reposoitory for each codelab. Commit and push the folder on the **master** branch to submit it. Make sure you answer any questions in the codelab by updating this README file with the answers. 
 
