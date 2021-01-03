@@ -1,6 +1,6 @@
 # HOMEWORK REPOSITORY
 
-The homework will primaraly be assigned google codelabs. Create a sub folder inside this reposoitory for each codelab. Commit and push the folder on the **master** branch to submit it. Make sure you answer any questions in the codelab by updating this README file with the answers. 
+The homework will primaraly be assigned google codelabs. Create a sub folder inside this reposoitory for each codelab. Commit and push the folder on the **master** branch to submit it. Make sure you answer any questions in the codelab by updating this README file with the answers. **Full marks require that the commit be pushed befor class and that any questions for the codelab be answered in this file.**
 
 Codelab 1.2 is the first codelab with questions, copy and paste the quesions to the bottom of this file, use markdown to create a Heading 1 (#) for the codelab name and heading 2 (##) for each question. For short answer questions add your answer for multiple choice or multiple selection.   
 Markdown: 
