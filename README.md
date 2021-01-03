@@ -11,15 +11,15 @@ Answer these questions
 Which method on an Activity inflates the app's layout and makes its views available as objects?
 
 **onCreate()**
-setClickListener()
-setContentView()
-show()
+setClickListener()   
+setContentView()   
+show()   
 
 
 ## Question 2
 Which view attribute do you use to set the width of a view so that it adjusts to fit the content?
 
-android:view_width="wrap"
-**android:layout_width="wrap_content"**
-android:layout_height="wrap_content"
-android:layout_width="match_parent"
+android:view_width="wrap"  
+**android:layout_width="wrap_content"**  
+android:layout_height="wrap_content"  
+android:layout_width="match_parent"  
