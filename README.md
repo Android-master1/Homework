@@ -13,7 +13,6 @@ Markdown:
 
 
 # Codelab 1.2 Quesitons
-Answer these questions
 
 ## Question 1
 Which method on an Activity inflates the app's layout and makes its views available as objects?
